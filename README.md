@@ -2,7 +2,7 @@
 
 Handwritten notes from my undergraduate Digital Logic course.
 
-## Course Information
+### Course Information
 
 - School: School of Computer Science and Technology
 - Major: Internet of Things Engineering
