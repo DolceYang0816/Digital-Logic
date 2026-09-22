@@ -1,4 +1,4 @@
-# Digital-Logic
+## Digital-Logic
 
 Handwritten notes from my undergraduate Digital Logic course.
 
